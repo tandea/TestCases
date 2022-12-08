@@ -4,7 +4,7 @@ Below are some test cases that I wrote while working on previous projects. First
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-_*I.*Description:_
+_I.Description:_
 eMag website should have expected search results and correct title. // Automated test.
 
 _Steps to Reproduce:_
@@ -25,7 +25,7 @@ Item name : Tricouri Polo & "Cauți tricouri polo? Alege din oferta eMAG.ro?
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-_*II.*Description:_
+_II.Description:_
 eMag website should have an feature "add to cart".  // Automated test.
 
 _Steps to reproduce:_
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 _Test data:_  Anvelope iarna & "Add to cart".
 _______________________________________________________________________________________________________________________________________________________________________
 
-_*III*Description:_
+_III.Description:_
 Check if the user can log in using correct user & password.
 _______________________________________________________________________________________________________________________________________________________________________
 _Steps to reproduce:_
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 _Test data:_ User: Ionut1 & Password: masinarosie1
 _______________________________________________________________________________________________________________________________________________________________________
 
-_*IV*Description:_
+_IV.Description:_
 Check if the website has forgot password feature.
 _______________________________________________________________________________________________________________________________________________________________________
 _Steps to reproduce:_
