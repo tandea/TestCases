@@ -1,1 +1,25 @@
+1. Description: Calculator web-app should have the following title "Simple calculator"
 
+Steps to reproduce:
+  1. From selenium, import webdriver
+  2.Create a new instance of the Chrome driver
+  3. Navigate to the website
+  4. Check the title of the page
+  5. Close the broswer window
+  
+Expected results: Webapp title would be display in python console
+ 
+ 
+ from selenium import webdriver
+driver = webdriver.Chrome()
+
+driver.get("http://127.0.0.1:5500/Calculator/")
+
+assert "Simple calculator" in driver.title
+
+driver.quit()
+
+
+  2. Description: I should get the first 3 videos on youtube trending
+  
+ 
